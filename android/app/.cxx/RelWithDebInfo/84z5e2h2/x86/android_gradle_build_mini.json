@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/puneetkumar/Downloads/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/puneetkumar/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/puneetkumar/Desktop/bdtaxidriver/android/app/.cxx/RelWithDebInfo/84z5e2h2/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/puneetkumar/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/puneetkumar/Desktop/bdtaxidriver/android/app/.cxx/RelWithDebInfo/84z5e2h2/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

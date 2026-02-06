@@ -1,0 +1,2 @@
+/Users/puneetkumar/Desktop/bdtaxidriver/android/app/.cxx/RelWithDebInfo/84z5e2h2/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/puneetkumar/Desktop/bdtaxidriver/android/app/.cxx/RelWithDebInfo/84z5e2h2/arm64-v8a/CMakeFiles/rebuild_cache.dir

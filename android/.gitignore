@@ -1,0 +1,84 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/docs/deployment/android#reference-the-keystore-from-the-app
+key.properties
+**/*.keystore
+**/*.jks
+
+
+# Miscellaneous
+*.log
+*.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Build and generated files
+/build/
+.dart_tool/
+.packages
+.pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-version
+.pub/
+.packages
+flutter_assets/
+
+# Android build
+/android/.gradle/
+/android/app/build/
+/android/build/
+/android/gradle/
+/android/gradlew
+/android/gradlew.bat
+
+# iOS build
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/flutter_project.pbxproj
+/ios/Flutter/flutter_assets/
+/ios/.generated/
+/ios/Flutter/ephemeral/.plugin_symlinks/
+/ios/Flutter/ephemeral/Flutter.framework/
+/ios/Flutter/ephemeral/flutter_export_environment.sh
+/ios/Flutter/ephemeral/Generated.xcconfig
+
+# macOS build
+/macos/Flutter/Flutter.xcframework/
+
+# Web build
+/web/assets/
+
+# Dependencies
+**/android/**/gradle-wrapper.jar
+**/android/**/gradlew
+**/android/**/gradlew.bat
+**/android/**/.gradle
+**/android/**/local.properties
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/.flutter-plugins
+**/ios/.flutter-plugins-dependencies
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_project.pbxproj
+**/ios/Flutter/flutter_assets/
+**/ios/.generated/
+**/ios/Flutter/ephemeral/
+**/macos/Flutter/Flutter.xcframework/
+**/web/assets/

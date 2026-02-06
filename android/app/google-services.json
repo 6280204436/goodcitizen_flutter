@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485129384065",
+    "project_id": "goodcitizenwebdemo",
+    "storage_bucket": "goodcitizenwebdemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485129384065:android:e028a967a0876e8b6edd80",
+        "android_client_info": {
+          "package_name": "com.android.goodcitizen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT3yq6W8L1srKyL3-v3zXCWdieTHgoA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485129384065:android:2315b88d69c054516edd80",
+        "android_client_info": {
+          "package_name": "com.pr.goodcitizen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT3yq6W8L1srKyL3-v3zXCWdieTHgoA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

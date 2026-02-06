@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>dev.flutter.background.refresh</string>
+	</array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Good Citizen</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>BD Driver</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>agoodcitizen.in</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>https</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>goodcitizen</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>goodcitizen</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>FlutterDeepLinkingEnabled</key>
+	<true/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>sms</string>
+		<string>tel</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Upload instructions for order service</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Upload image from camera for either profile picture or service related detail</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>App is using FaceID for authentication for login</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Local network access is needed for service related</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>BD Driver requires access to your location to provide accurate delivery tracking and load deliveries nearby. Your location data is only used for these purposes and is not shared with third parties.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>BD Driver requires access to your location even when it's running in the background to provide continuous delivery tracking and ensure timely updates on parcel locations. Background location access is essential for maintaining accurate delivery routes and improving the overall delivery experience. Rest assured, your location data is securely handled and used only for the purpose of facilitating deliveries within the app.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>BD Driver requires access to your location when in use to provide accurate delivery tracking and load deliveries nearby. Your location data is only used for these purposes and is not shared with third parties.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>To record the instructions for service</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Upload images from gallery for either profile picture or serive related detail</string>
+	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>remote-notification</string>
+		<string>processing</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

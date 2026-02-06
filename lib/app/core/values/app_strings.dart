@@ -1,0 +1,1 @@
+const strAppName="Good Citizen";
